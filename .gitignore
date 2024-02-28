@@ -27,3 +27,5 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/.idea/
+/TeachMeSkills_C27_Lesson_14_HW.iml

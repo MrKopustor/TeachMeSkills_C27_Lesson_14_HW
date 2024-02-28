@@ -1,0 +1,76 @@
+27.02.2024 18:53:13:328 -> Start
+27.02.2024 18:53:13:478 -> Received Path from Console
+27.02.2024 18:53:13:480 -> Start method parserDoc
+27.02.2024 18:53:13:483 -> Split the resulting text into lines
+27.02.2024 18:53:13:484 -> Start method CheckValidData
+27.02.2024 18:53:13:491 -> End method CheckValidData
+27.02.2024 18:53:13:492 -> Start method CheckValidData
+27.02.2024 18:53:13:494 -> End method CheckValidData
+27.02.2024 18:53:13:495 -> Start method CheckValidData
+27.02.2024 18:53:13:497 -> End method CheckValidData
+27.02.2024 18:53:13:498 -> Start method CheckValidData
+27.02.2024 18:53:13:500 -> Valid document is written to a file 
+27.02.2024 18:53:13:501 -> End method CheckValidData
+27.02.2024 18:53:13:502 -> Start method CheckValidData
+27.02.2024 18:53:13:503 -> Valid document is written to a file 
+27.02.2024 18:53:13:504 -> End method CheckValidData
+27.02.2024 18:53:13:505 -> Start method CheckValidData
+27.02.2024 18:53:13:506 -> Valid document is written to a file 
+27.02.2024 18:53:13:507 -> End method CheckValidData
+27.02.2024 18:53:13:508 -> Start method CheckValidData
+27.02.2024 18:53:13:509 -> Valid document is written to a file 
+27.02.2024 18:53:13:510 -> End method CheckValidData
+27.02.2024 18:53:13:511 -> Start method CheckValidData
+27.02.2024 18:53:13:514 -> End method CheckValidData
+27.02.2024 18:53:13:514 -> Start method CheckValidData
+27.02.2024 18:53:13:517 -> End method CheckValidData
+27.02.2024 18:53:13:518 -> Start method CheckValidData
+27.02.2024 18:53:13:519 -> Valid document is written to a file 
+27.02.2024 18:53:13:520 -> End method CheckValidData
+27.02.2024 18:53:13:521 -> Start method CheckValidData
+27.02.2024 18:53:13:523 -> Valid document is written to a file 
+27.02.2024 18:53:13:523 -> End method CheckValidData
+27.02.2024 18:53:13:524 -> Start method CheckValidData
+27.02.2024 18:53:13:526 -> Valid document is written to a file 
+27.02.2024 18:53:13:527 -> End method CheckValidData
+27.02.2024 18:53:13:527 -> Start method CheckValidData
+27.02.2024 18:53:13:529 -> Valid document is written to a file 
+27.02.2024 18:53:13:530 -> End method CheckValidData
+27.02.2024 18:53:13:531 -> Start method CheckValidData
+27.02.2024 18:53:13:532 -> Valid document is written to a file 
+27.02.2024 18:53:13:533 -> End method CheckValidData
+27.02.2024 18:53:13:534 -> Start method CheckValidData
+27.02.2024 18:53:13:536 -> Valid document is written to a file 
+27.02.2024 18:53:13:537 -> End method CheckValidData
+27.02.2024 18:53:13:538 -> Start method CheckValidData
+27.02.2024 18:53:13:540 -> Valid document is written to a file 
+27.02.2024 18:53:13:541 -> End method CheckValidData
+27.02.2024 18:53:13:541 -> Start method CheckValidData
+27.02.2024 18:53:13:544 -> Valid document is written to a file 
+27.02.2024 18:53:13:545 -> End method CheckValidData
+27.02.2024 18:53:13:546 -> Start method CheckValidData
+27.02.2024 18:53:13:548 -> End method CheckValidData
+27.02.2024 18:53:13:548 -> Start method CheckValidData
+27.02.2024 18:53:13:550 -> End method CheckValidData
+27.02.2024 18:53:13:552 -> Start method CheckValidData
+27.02.2024 18:53:13:555 -> End method CheckValidData
+27.02.2024 18:53:13:556 -> Start method CheckValidData
+27.02.2024 18:53:13:558 -> End method CheckValidData
+27.02.2024 18:53:13:559 -> Start method CheckValidData
+27.02.2024 18:53:13:560 -> End method CheckValidData
+27.02.2024 18:53:13:561 -> Start method CheckValidData
+27.02.2024 18:53:13:563 -> End method CheckValidData
+27.02.2024 18:53:13:564 -> Start method CheckValidData
+27.02.2024 18:53:13:566 -> End method CheckValidData
+27.02.2024 18:53:13:566 -> Start method CheckValidData
+27.02.2024 18:53:13:568 -> End method CheckValidData
+27.02.2024 18:53:13:569 -> Start method CheckValidData
+27.02.2024 18:53:13:570 -> End method CheckValidData
+27.02.2024 18:53:13:572 -> Start method CheckValidData
+27.02.2024 18:53:13:574 -> End method CheckValidData
+27.02.2024 18:53:13:574 -> Start method CheckValidData
+27.02.2024 18:53:13:575 -> Valid document is written to a file 
+27.02.2024 18:53:13:576 -> End method CheckValidData
+27.02.2024 18:53:13:577 -> End method parserDoc
+27.02.2024 18:53:13:578 -> End
+

@@ -1,4 +1,4 @@
-package com.teachmeskills.lesson14.service;
+package com.teachmeskills.lesson14.util;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -10,6 +10,10 @@ import static com.teachmeskills.lesson14.constants.Constants.PATH_ERROR_LOG;
 import static com.teachmeskills.lesson14.constants.Constants.PATH_EVENT_LOG;
 import static com.teachmeskills.lesson14.util.DateFormat.dateFormat;
 
+/**
+ * Class Logger
+ * It has 2 methods that call error and event logs
+ */
 public class Logger {
 
     public static void logEvent(String message) {
@@ -18,7 +22,7 @@ public class Logger {
         try {
             Files.write(Paths.get(PATH_EVENT_LOG), (log + "\n").getBytes(), StandardOpenOption.APPEND);
         } catch (IOException e) {
-            //todo
+            // do nothing
         }
     }
 
@@ -28,7 +32,7 @@ public class Logger {
         try {
             Files.write(Paths.get(PATH_ERROR_LOG), (log + "\n").getBytes(), StandardOpenOption.APPEND);
         } catch (IOException e) {
-            //todo mail message
+            // do nothing
         }
     }
 }
