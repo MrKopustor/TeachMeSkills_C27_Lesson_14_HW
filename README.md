@@ -10,7 +10,7 @@ Application contains:</br>
   
 - Folder <code>resources</code> <em>(Contains file for check)</em>
 - Folder <code>result</code> <em>(Contains 2 files with valid and invalid values)</em>
-- Folder src "source" <em>(Contains the source code of the project)</em>
+- Folder <code>src</code> "source" <em>(Contains the source code of the project)</em>
   - Folder <code>constants</code> <em>(Contains constants)</em>
   - Folder <code>launcher</code>
   
