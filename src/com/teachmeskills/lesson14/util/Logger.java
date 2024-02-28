@@ -20,7 +20,7 @@ public class Logger {
 
         String log = dateFormat(new Date()) + " -> " + message;
         try {
-            Files.write(Paths.get(PATH_EVENT_LOG), (log + "\n").getBytes(), StandardOpenOption.APPEND);
+            Files.write(Paths.get(PATH_EVENT_LOG), ("[INFO] -> "+ log + "\n").getBytes(), StandardOpenOption.APPEND);
         } catch (IOException e) {
             // do nothing
         }
@@ -30,7 +30,7 @@ public class Logger {
 
         String log = dateFormat(new Date()) + " -> " + message;
         try {
-            Files.write(Paths.get(PATH_ERROR_LOG), (log + "\n").getBytes(), StandardOpenOption.APPEND);
+            Files.write(Paths.get(PATH_ERROR_LOG), ("[Error] -> "+ log + "\n").getBytes(), StandardOpenOption.APPEND);
         } catch (IOException e) {
             // do nothing
         }

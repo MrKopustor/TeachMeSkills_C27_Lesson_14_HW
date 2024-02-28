@@ -74,3 +74,79 @@
 27.02.2024 18:53:13:577 -> End method parserDoc
 27.02.2024 18:53:13:578 -> End
 
+[INFO] -> 28.02.2024 16:28:16:566 -> Start
+[INFO] -> 28.02.2024 16:28:16:772 -> Received Path from Console
+[INFO] -> 28.02.2024 16:28:16:774 -> Start method parserDoc
+[INFO] -> 28.02.2024 16:28:16:776 -> Split the resulting text into lines
+[INFO] -> 28.02.2024 16:28:16:778 -> Start method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:790 -> End method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:791 -> Start method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:795 -> End method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:795 -> Start method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:799 -> End method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:800 -> Start method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:802 -> Valid document is written to a file 
+[INFO] -> 28.02.2024 16:28:16:803 -> End method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:804 -> Start method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:806 -> Valid document is written to a file 
+[INFO] -> 28.02.2024 16:28:16:807 -> End method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:808 -> Start method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:810 -> Valid document is written to a file 
+[INFO] -> 28.02.2024 16:28:16:811 -> End method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:812 -> Start method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:813 -> Valid document is written to a file 
+[INFO] -> 28.02.2024 16:28:16:814 -> End method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:815 -> Start method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:818 -> End method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:819 -> Start method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:823 -> End method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:826 -> Start method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:828 -> Valid document is written to a file 
+[INFO] -> 28.02.2024 16:28:16:829 -> End method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:830 -> Start method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:832 -> Valid document is written to a file 
+[INFO] -> 28.02.2024 16:28:16:833 -> End method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:834 -> Start method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:836 -> Valid document is written to a file 
+[INFO] -> 28.02.2024 16:28:16:837 -> End method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:838 -> Start method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:839 -> Valid document is written to a file 
+[INFO] -> 28.02.2024 16:28:16:840 -> End method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:842 -> Start method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:844 -> Valid document is written to a file 
+[INFO] -> 28.02.2024 16:28:16:845 -> End method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:847 -> Start method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:851 -> Valid document is written to a file 
+[INFO] -> 28.02.2024 16:28:16:853 -> End method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:854 -> Start method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:856 -> Valid document is written to a file 
+[INFO] -> 28.02.2024 16:28:16:857 -> End method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:858 -> Start method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:860 -> Valid document is written to a file 
+[INFO] -> 28.02.2024 16:28:16:861 -> End method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:863 -> Start method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:865 -> End method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:866 -> Start method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:868 -> End method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:869 -> Start method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:873 -> End method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:874 -> Start method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:878 -> End method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:879 -> Start method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:881 -> End method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:882 -> Start method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:885 -> End method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:886 -> Start method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:888 -> End method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:889 -> Start method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:891 -> End method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:892 -> Start method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:895 -> End method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:896 -> Start method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:898 -> End method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:899 -> Start method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:901 -> Valid document is written to a file 
+[INFO] -> 28.02.2024 16:28:16:901 -> End method CheckValidData
+[INFO] -> 28.02.2024 16:28:16:902 -> End method parserDoc
+[INFO] -> 28.02.2024 16:28:16:903 -> End
+
